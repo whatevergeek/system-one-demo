@@ -1,6 +1,6 @@
 # Demo-day runbook (Nov 24)
 
-A checklist, not documentation. Setup details live in the [README](README.md).
+A checklist, not documentation. Setup lives in the [README](README.md) (getting started) and [MORE_DEMOS.md](MORE_DEMOS.md) (chat front and five-questions).
 
 ## Before the talk
 
